@@ -1,0 +1,8 @@
+{
+  "name": "kel-deploy",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Kel Contributors",
+  "variants": [],
+  "models": ["deployment"]
+}
